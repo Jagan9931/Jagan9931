@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jagan9931
 - 👀 I’m interested in computer coding
-- 🌱 I’m currently learn css 
+- 🌱 I’m currently learn JavaScript 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
